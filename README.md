@@ -169,7 +169,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Author ✍️
 
-Your Name - [@yourhandle](https://twitter.com/yourhandle)
+Your Name - [RSBEJINI]([https://twitter.com/yourhandle](https://www.linkedin.com/in/ravi-shankar-bejini-5887711b0/))
 
 Project Link: [https://github.com/yourusername/AI-Bulk-Blog-Generator](https://github.com/yourusername/AI-Bulk-Blog-Generator)
 
