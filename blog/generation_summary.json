@@ -1,0 +1,66 @@
+{
+  "total_articles": 10,
+  "generation_date": "2025-11-09 22:39:54",
+  "articles": [
+    {
+      "title": "Understanding Python Decorators: A Complete Guide",
+      "filepath": "blog\\understanding-python-decorators-a-complete-guide.html",
+      "word_count": 1598,
+      "meta_description": "Unlock Python's potential with decorators! Learn how to modify functions and methods cleanly, improving code reusability and maintainability. A complete guide."
+    },
+    {
+      "title": "RESTful API Design Best Practices",
+      "filepath": "blog\\restful-api-design-best-practices.html",
+      "word_count": 1952,
+      "meta_description": "RESTful API design best practices for scalable web services. Learn how to build robust APIs with simplicity and flexibility."
+    },
+    {
+      "title": "Introduction to Docker for Developers",
+      "filepath": "blog\\introduction-to-docker-for-developers.html",
+      "word_count": 1715,
+      "meta_description": "Learn Docker essentials for developers! Containerize apps, streamline workflows, and deploy confidently. Fix \"it works on my machine\" issues now."
+    },
+    {
+      "title": "Git Branching Strategies for Teams",
+      "filepath": "blog\\git-branching-strategies-for-teams.html",
+      "word_count": 1862,
+      "meta_description": "Explore Git branching strategies for teams: Gitflow, GitHub Flow, and Trunk-Based Development. Learn the pros & cons to boost collaboration and streamline relea"
+    },
+    {
+      "title": "JavaScript Async/Await: From Callbacks to Modern Async",
+      "filepath": "blog\\javascript-async-await-from-callbacks-to-modern-async.html",
+      "word_count": 1369,
+      "meta_description": "Master JavaScript async/await! Learn how it simplifies asynchronous programming, moving beyond callbacks and Promises for cleaner, more readable code."
+    },
+    {
+      "title": "Database Indexing: When and How to Use Indexes",
+      "filepath": "blog\\database-indexing-when-and-how-to-use-indexes.html",
+      "word_count": 1911,
+      "meta_description": "Learn about database indexing: how it speeds up queries, when to use them effectively, and how to avoid performance pitfalls. Optimize your database now!"
+    },
+    {
+      "title": "Building Scalable Microservices Architecture",
+      "filepath": "blog\\building-scalable-microservices-architecture.html",
+      "word_count": 1438,
+      "meta_description": "Learn to build scalable microservices architecture! Explore key concepts, patterns, communication strategies, and service discovery for robust systems."
+    },
+    {
+      "title": "React Hooks: A Practical Deep Dive",
+      "filepath": "blog\\react-hooks-a-practical-deep-dive.html",
+      "word_count": 1964,
+      "meta_description": "Unlock React Hooks! Deep dive into useState, useEffect, and custom Hooks. Master functional components and build robust, maintainable React apps."
+    },
+    {
+      "title": "SQL vs NoSQL: Choosing the Right Database",
+      "filepath": "blog\\sql-vs-nosql-choosing-the-right-database.html",
+      "word_count": 1212,
+      "meta_description": "SQL vs NoSQL: Understand key differences & choose the right database for your project. Explore use cases, benefits, & make an informed decision."
+    },
+    {
+      "title": "Test-Driven Development (TDD) in Practice",
+      "filepath": "blog\\test-driven-development-tdd-in-practice.html",
+      "word_count": 1693,
+      "meta_description": "Learn Test-Driven Development (TDD)! Improve code quality & design by writing tests first. Discover this powerful methodology and how it works in practice."
+    }
+  ]
+}
